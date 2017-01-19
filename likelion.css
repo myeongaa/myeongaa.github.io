@@ -30,8 +30,7 @@ footer{
     text-align: center;  
     background-color: #2e2c2c;
     position:absolute;
-    margin-top:-1.9em;
-    
+
 }
 
 .container{
@@ -70,6 +69,7 @@ footer{
 footer p{
     color:#ffffff;
     font-size:15px;
+    margin-top: 30px;
 }
 
 .container h2{
@@ -83,7 +83,7 @@ footer p{
 
 }
 
-.container p{
+header .container p{
     color:#ffffff;
     margin-top:60px;
 }
